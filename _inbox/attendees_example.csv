@@ -1,0 +1,4 @@
+﻿Vorname;Nachname;Firma;E-Mail;Ticket
+Max;Mustermann;Beispiel GmbH;max@example.com;Normales Ticket
+Erika;Musterfrau;Demo|Studios AG;erika@example.com;Normales Ticket
+John;Doe;;john@example.com;Normales Ticket

@@ -1,0 +1,10 @@
+.DS_Store
+.claude/settings.local.json
+
+# Working data — never commit real attendee info
+kontakte.csv
+_inbox/attendees_*.csv
+!_inbox/attendees_example.csv
+
+# Generated badges (regenerate via export_badges.sh)
+export/*.3mf
